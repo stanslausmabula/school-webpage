@@ -234,7 +234,7 @@ body {
 }
     .navbar {
     background-image: url('picha-ya-back.jpg'); /* Path ya picha yako */
-    background-size: cover;       /* Inajaza full space ya navbar */
+    background-size: 50px;       /* Inajaza full space ya navbar */
     background-position: center;  /* Iwe katikati */
     background-repeat: no-repeat; /* Isirudiwe picha */
     padding: 20px;                /* Nafasi ndani ya menu */
