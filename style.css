@@ -225,8 +225,8 @@ footer p {
     }
     /* style.css */
 body {
-    background-image: url('20251117_105444.jpg'); /* badilisha na jina la picha yako */
-    background-size: cover;      /* inafunika screen yote */
+    background-image: url('20251117_105444.jpg');
+    background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
 }
