@@ -232,4 +232,23 @@ body {
     max-width: 100%;
     height: auto;
 }
+    .navbar {
+    background-image: url('picha-ya-back.jpg'); /* Path ya picha yako */
+    background-size: cover;       /* Inajaza full space ya navbar */
+    background-position: center;  /* Iwe katikati */
+    background-repeat: no-repeat; /* Isirudiwe picha */
+    padding: 20px;                /* Nafasi ndani ya menu */
+}
+
+.navbar ul {
+    list-style: none;             /* Ondoa bullets */
+    display: flex;                /* Weka items horizontally */
+    gap: 20px;                    /* Nafasi kati ya maneno */
+}
+
+.navbar li a {
+    color: white;                 /* Rangi ya maneno ili ionekane vizuri */
+    text-decoration: none;        /* Ondoa underline */
+    font-weight: bold;
+}
 }
