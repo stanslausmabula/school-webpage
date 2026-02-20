@@ -223,4 +223,11 @@ footer p {
     .content {
         padding: 1rem;
     }
+    /* style.css */
+body {
+    background-image: url('20251117_105444.jpg'); /* badilisha na jina la picha yako */
+    background-size: cover;      /* inafunika screen yote */
+    background-repeat: no-repeat;
+    background-position: center;
+}
 }
