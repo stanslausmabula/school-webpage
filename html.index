@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About School image</title>
+  <style>
+    html, body {
+      margin: 0;
+      padding: 0;
+      height: 100%;
+    }
+    .school-image {
+      width: 100%;
+      height: 100vh; /* inachukua screen nzima */
+      background-image: url('20251117_105444.jpg'); /* badilisha na path ya picha yako */
+      background-size: cover;
+      background-position: center;
+    }
+  </style>
+</head>
+<body>
+  <div class="school-image"></div>
+</body>
+</html>
